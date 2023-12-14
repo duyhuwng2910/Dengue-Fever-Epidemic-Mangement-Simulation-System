@@ -36,7 +36,7 @@ for i in range(len(vietnam_provinces)):
             ]
         )    
     
-print(weather_information)
+#print(weather_information)
 
 daily_weather_data_by_city_file_path = "daily_weather_data_by_city.csv"
 
