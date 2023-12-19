@@ -1,12 +1,9 @@
-provinces = [
-    "Hà Nội", "Hồ Chí Minh", "Đà Nẵng", "Hải Phòng", "Hòa Bình", "Sơn La", "Lai Châu", "Lào Cai", "Yên Bái",
-    "Tuyên Quang", "Lạng Sơn", "Bắc Kạn", "Thái Nguyên", "Cao Bằng", "Lâm Đồng", "Đắk Lắk", "Đắk Nông", "Khánh Hòa",
-    "Phú Yên", "Bình Định", "Gia Lai", "Kon Tum", "Quảng Nam", "Quảng Ngãi", "Quảng Bình", "Quảng Trị", "Thừa Thiên Huế",
-    "Quảng Ninh", "Hải Dương", "Hưng Yên", "Bắc Ninh", "Nam Định", "Thái Bình", "Ninh Bình", "Vĩnh Phúc", "Phú Thọ",
-    "Bắc Giang", "Bắc Ninh", "Hà Nam", "Hà Tĩnh", "Nghệ An", "Quảng Ninh", "Quảng Trị", "Sóc Trăng", "Tiền Giang",
-    "Trà Vinh", "Vĩnh Long", "Bến Tre", "Cần Thơ", "Đồng Tháp", "Hậu Giang", "Kiên Giang", "Long An", "An Giang",
-    "Bà Rịa - Vũng Tàu", "Bình Dương", "Bình Phước", "Đồng Nai", "Tây Ninh",
-    "Đắk Lắk", "Đồng Nai", "Bà Rịa - Vũng Tàu", "Bình Dương"
-]
+import pandas as pd
 
-print(len(provinces))
+area_and_population_data = pd.read_csv("Data/Public data/Administrative units data/Diện tích, dân số, mật độ dân số (2022).csv", encoding='utf-8', header=0)
+
+df = pd.DataFrame(area_and_population_data)
+
+print(df.dtypes)
+
+print(df)

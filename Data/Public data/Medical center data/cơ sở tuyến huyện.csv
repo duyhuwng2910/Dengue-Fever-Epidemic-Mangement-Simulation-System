@@ -1,122 +1,121 @@
-Mã KCB,Tên cơ sở,Tên cơ sở (English),Loại hình cơ sở,Cấp cơ sở,Tỉnh/Thành phố,Quận/Huyện,Xã/Phường
-     24003,Bệnh viện đa khoa huyện Lục Nam,Luc Nam District Health Center (CS1-hospital),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Lục Nam,Thị trấn Đồi Ngô
-     24010,Bệnh viện đa khoa huyện Yên Dũng,Yen Dung District Health Center (CS1-hospital),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Yên Dũng,Thị trấn Nham Biền
-     02005,Bệnh viện đa khoa huyện Vị Xuyên,Vi Xuyen District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Giang,Huyện Vị Xuyên,Thị trấn Vị Xuyên
-     38020,BVĐK thị xã Bỉm Sơn,Bim Som Town General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thị xã Bỉm Sơn,Phường Lam Sơn
-     38110,BVĐK huyện Thạch Thành,Thach Thanh District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thạch Thành,Thị trấn Kim Tân
-     38060,BVĐK huyện Thường Xuân,Thuong Xuan District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thường Xuân,Thị trấn Thường Xuân
-     38070,BVĐK huyện Như Xuân,Nhu Xuan District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Như Xuân,Thị trấn Yên Cát
-     38130,BVĐK huyện Vĩnh Lộc,Vinh Loc District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Vĩnh Lộc,Thị trấn Vĩnh Lộc
-     38140,BVĐK huyện Yên Định,Yen Dinh District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Yên Định,Xã Định Long
-     38120,BVĐK huyện Thọ Xuân,Tho Xuan District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thọ Xuân,Thị trấn Thọ Xuân
-     38220,BVĐK huyện Quảng Xương,Quang Xuong District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Quảng Xương,Thị trấn Tân Phong
-     38160,BVĐK huyện Nông Cống,Nong Cong District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Nông Cống,Thị trấn Nông Cống
-     38720,BVĐK Tâm Đức Cầu Quan,Tam Duc Cau Quan General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Nông Cống,Xã Trung Chính
-     02012,Bệnh viện đa khoa huyện Mèo vạc,Meo Vac District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Giang,Huyện Mèo Vạc,Thị trấn Mèo Vạc
-     36028,TTYT huyện Nghĩa Hưng (cơ sở Nghĩa Trung),Trung tâm y tế huyện Nghĩa Hưng (cơ sở Nghĩa Trung),Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Nam Định,Huyện Nghĩa Hưng,Xã Nghĩa Trung
-     25002,Bệnh viện đa khoa thị xã Phú Thọ,Phu Tho Town General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Phú Thọ,Thị xã Phú Thọ,Phường Âu Cơ
-     42003,Trung tâm Y tế huyện Hương Sơn,Huong Son District Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Thị trấn Phố Châu
-     42002,Trung tâm Y tế Thị xã Hồng Lĩnh,Hong Linh Town General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Thị xã Hồng Lĩnh,Phường Bắc Hồng
-     42006,Trung tâm Y tế huyện Can Lộc,Can Loc District General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Can Lộc,Thị trấn Nghèn
-     42009,Bệnh viện đa khoa huyện Cẩm Xuyên,Cam Xuyen District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Cẩm Xuyên,Thị trấn Cẩm Xuyên
-     42010,Bệnh viện đa khoa thị xã Kỳ Anh,Ky Anh Town General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thị xã Kỳ Anh,Phường Hưng Trí
-     42011,Trung tâm Y tế huyện Vũ Quang,Vu Quang District General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Vũ Quang,Thị trấn Vũ Quang
-     42007,Bệnh viện đa khoa huyện Hương Khê,Huong Khe District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Hương Khê,Thị trấn Hương Khê
-     42008,Trung tâm Y tế huyện Thạch Hà,Thach Ha District General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Thạch Hà,Xã Thạch Long
-     42005,Trung tâm Y tế huyện Nghi Xuân,Nghi Xuan Distrit General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Nghi Xuân,Thị trấn Tiên Điền
-     54005,Trung Tâm Y tế thị xã Sông Cầu,Song Cau Town Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Phú Yên,Thị xã Sông Cầu,Phường Xuân Yên
-     64006,TTYT  Huyện Chư Prông,Chu Prong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Gia Lai,Huyện Chư Prông,Thị trấn Chư Prông
-     89190,BỆNH VIỆN MẲT LONG XUYÊN,Long Xuyen Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh An Giang,Thành phố Long Xuyên,Phường Đông Xuyên
-     38030,BVĐK thành phố Sầm Sơn,Sam Son City General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Sầm Sơn,Phường Bắc Sơn
-     38040,BVĐK huyện Quan Hóa,Quan Hoa District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Quan Hóa,Thị trấn Hồi Xuân
-     38260,BVĐK huyện Quan Sơn,Quan Son District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Quan Sơn,Thị trấn Sơn Lư
-     35036.,Bệnh viện đa khoa Duy Tiên,Duy Tien Town Health Center (CS1-Hospital),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Nam,Thị xã Duy Tiên,Phường Hòa Mạc
-     48012,Bệnh viện đa khoa Nam Liên Chiểu,Bệnh viện đa khoa Nam Liên Chiểu,Bệnh viện đa khoa,Tuyến huyện,Thành phố Đà Nẵng,Quận Liên Chiểu,Phường Hòa Minh
-     64002,TTYT  Huyện Chư Păh,Chu Pah District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Gia Lai,Huyện Chư Păh,Thị trấn Phú Hòa
-     79587,TTYT  Quận Phú Nhuận,Phu Nhuan District Health Center (CS2-preventive),trung tâm y tế huyện,Tuyến huyện,Thành phố Hồ Chí Minh,Quận Phú Nhuận,Phường 05
-     87178,TTYT  Thành phố Cao Lãnh,Cao Lanh City Health Center,Phòng khám đa khoa,Tuyến huyện,Tỉnh Đồng Tháp,Thành phố Cao Lãnh,Phường 4
-     89010,Trung tâm Y tế huyện Châu Thành (An Giang),Chau Thanh District Health Center CS1-hospital (An Giang),trung tâm y tế huyện,Tuyến huyện,Tỉnh An Giang,Huyện Châu Thành,Thị trấn An Châu
-     45004,TTYT  Huyện Gio Linh,Gio Linh district health center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Trị,Huyện Gio Linh,Thị trấn Gio Linh
-     46011,TTYT  Thành phố Huế,Hue City Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Thừa Thiên Huế,Thành phố Huế,Phường Kim Long
-     49009,TTYT  Huyện Thăng Bình,Thang Binh District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Nam,Huyện Thăng Bình,Thị trấn Hà Lam
-     40018,TTYT  Huyện Quế Phong,Que Phong District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Nghệ An,Huyện Quế Phong,Thị trấn Kim Sơn
-     40002,Trung tâm Y tế huyện Hưng Nguyên,Hung Nguyen District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Nghệ An,Huyện Hưng Nguyên,Thị trấn Hưng Nguyên
-     93078,TTYT  Huyện Long Mỹ,Long My District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Hậu Giang,Huyện Long Mỹ,Thị trấn Vĩnh Viễn
-     25045,TTYT  Huyện Tân Sơn,Tan Son District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Phú Thọ,Huyện Tân Sơn,Xã Tân Phú
-     66015,Bệnh viện đa khoa huyện Cư Mgar,Cu M'gar District Health Center (CS1-hospital),trung tâm y tế huyện,Tuyến huyện,Tỉnh Đắk Lắk,Huyện Cư M'gar,Thị trấn Quảng Phú
-     15201,TTYT  Huyện Lục Yên,Luc Yen District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Yên Bái,Huyện Lục Yên,Thị trấn Yên Thế
-     86134,TTYT H. Bình Tân,Binh Tan District Health Center ,Trung tâm y tế,Tuyến huyện,Tỉnh Vĩnh Long,Huyện Bình Tân,Thị trấn Tân Quới
-     14003,Bệnh viện đa khoa Mộc châu,Moc Chau District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Sơn La,Huyện Mộc Châu,Thị trấn Mộc Châu
-     14006,Bệnh viện đa khoa Yên Châu,Yen Chau District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Sơn La,Huyện Yên Châu,Thị trấn Yên Châu
-     14010,Bệnh viện đa khoa Bắc Yên,Bac Yen District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Sơn La,Huyện Bắc Yên,Thị trấn Bắc Yên
-     01244,Bệnh viện Quốc tế DoLife,DoLife International Hospital,Bệnh viện đa khoa,Tuyến huyện,Thành phố Hà Nội,Quận Nam Từ Liêm,Phường Mỹ Đình 2
-     01217,TTYT Quận Bắc Từ Liêm,Bac Tu Liem District Health Center,Trung tâm y tế,Tuyến huyện,Thành phố Hà Nội,Quận Bắc Từ Liêm,Phường Minh Khai
-     42004,Bệnh viện đa khoa huyện Đức Thọ,Duc Tho District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Đức Thọ,Thị trấn Đức Thọ
-     33040,TTYT  Huyện Kim Động,Kim Dong District Health Center (CS1-hospital),Trung tâm y tế,Tuyến huyện,Tỉnh Hưng Yên,Huyện Kim Động,Thị trấn Lương Bằng
-     35064,TTYT  Huyện Lý Nhân,Ly Nhan District Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Nam,Huyện Lý Nhân,Thị trấn Vĩnh Trụ
-     37103,TTYT thành phố Ninh Bình,Ninh Binh City Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Ninh Bình,Thành phố Ninh Bình,Phường Phúc Thành
-     20011,TTYT  Huyện Cao Lộc,Cao Loc District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Lạng Sơn,Huyện Cao Lộc,Thị trấn Cao Lộc
-     75096,TTYT  Huyện Cẩm Mỹ,Cam My District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Đồng Nai,Huyện Cẩm Mỹ,Xã Long Giao
-     75013,Trung tâm Y tế huyện Xuân Lộc,Xuan Loc District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Đồng Nai,Huyện Xuân Lộc,Xã Suối Cát
-     60005,TTYT  Huyện Hàm Thuận Bắc,Ham Thuan Bac District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Bình Thuận,Huyện Hàm Thuận Bắc,Thị trấn Ma Lâm
-     06006,TTYT  Huyện Na Rì,Na Ri District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Kạn,Huyện Na Rì,Thị trấn Yến Lạc
-     20010,TTYT  Huyện Văn Quan,Van Quan District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Lạng Sơn,Huyện Văn Quan,Thị trấn Văn Quan
-     54028,TTYT  Huyện Phú Hòa,Phu Hoa District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Phú Yên,Huyện Phú Hoà,Thị Trấn Phú Hoà
-     62002,TTYT  Huyện Đắk Glei,Dak Glei District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Đắk Glei,Thị trấn Đắk Glei
-     62004,TTYT  Huyện Đắk Tô,Dak To District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Đắk Tô,Thị trấn Đắk Tô
-     62008,TTYT  Huyện Kon Rẫy,Kon Ray District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Kon Rẫy,Thị trấn Đắk Rve
-     62006,TTYT  Huyện Kon Plông,Kon Plong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Kon Plông,Thị trấn Măng Đen
-     62007,TTYT  Huyện Đắk Hà,Dak Ha District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Đắk Hà,Thị trấn Đắk Hà
-     38747,Bệnh viện Mắt Thanh An,Thanh An Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Trường Thi
-     38748,BVĐK quốc tế Hợp Lực,Hop Luc International General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thị xã Nghi Sơn,Phường Nguyên Bình
-     62005,TTYT  Huyện Sa Thầy,Sa Thay District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Sa Thầy,Thị trấn Sa Thầy
-     62013,TTYT  Huyện Tu Mơ Rông,Tu Mo Rong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Tu Mơ Rông,Xã Đắk Hà
-     72001,Trung tâm Y tế Thành phố Tây Ninh,Tay Ninh City Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Tây Ninh,Thành phố Tây Ninh,Phường 2
-     22042,TTYT Than Khu vực Mạo Khê (thuộc Bệnh viện Than-Khoáng Sản),VINACOMIN Hospital (Coal Health Center for Mao Khe area),Trung tâm y tế,Tuyến huyện,Tỉnh Quảng Ninh,Thị xã Đông Triều,Phường Mạo Khê
-     44006,Bệnh viện đa khoa huyện Quảng Ninh,Quang Ninh District Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Quảng Bình,Huyện Quảng Ninh,Xã Gia Ninh
-     56003,Trung tâm Y tế Thị xã Ninh Hoà,Trung tâm Y tế Thị xã Ninh Hoà,Trung tâm y tế,Tuyến huyện,Tỉnh Khánh Hòa,Thị xã Ninh Hòa,Phường Ninh Diêm
-     42021,Bệnh viện Đa khoa khu vực Cửa khẩu Quốc tế Cầu Treo,Cau Treo Regional General Hospital (Huong Son district),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Thị trấn  Tây Sơn
-     ,Bệnh viện đa khoa Hồng Hà,Bệnh viện đa khoa Hồng Hà,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thị xã Hồng Lĩnh,Phường Nam Hồng
-     42311,Bệnh viện đa khoa Sài Gòn - Hà Tĩnh,Saigon General Hospital- (Belongs to Saigon Eye Hospital Chain-Ha Tinh),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thành phố Hà Tĩnh,Phường Thạch Linh
-     42337,Bệnh viện Đa khoa TTH Hà Tĩnh,Bệnh viện Đa khoa TTH Hà Tĩnh,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thành phố Hà Tĩnh,Xã Thạch Trung
-     38240,BVĐK huyện Thiệu Hoá,Thieu Hoa District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thiệu Hóa,Thị trấn Thiệu Hóa
-     38150,BVĐK huyện Triệu Sơn,Trieu Son District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Triệu Sơn,Thị trấn Triệu Sơn
-     45005,Trung tâm Y tế huyện Cam Lộ,Cam Lo District health center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Trị,Huyện Cam Lộ,Thị trấn Cam Lộ
-     60012,TTYT  Huyện Hàm Thuận Nam,Ham Thuan Nam District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Bình Thuận,Huyện Hàm Thuận Nam,Thị trấn Thuận Nam
-     38010,Bệnh viện đa khoa thành phố Thanh Hóa,"Thanh Hoa City General Hospital
-",Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Trường Thi
-     38718,Bệnh viện Mắt Binh Tâm,Binh Tam Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Đông Vệ
-     26025,Trung tâm y tế thành phố Phúc Yên,Phuc Yen City Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Vĩnh Phúc,Thành phố Phúc Yên,Phường Nam Viêm
-     60040,TTYT  Thành phố Phan Thiết,Phan Thiet City Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Bình Thuận,Thành phố Phan Thiết,Phường Phú Trinh
-     01082,Bệnh viện đa khoa tư nhân Tràng An,Trang An Private General Hospital,Bệnh viện đa khoa,Tuyến huyện,Thành phố Hà Nội,Quận Đống Đa,Phường Quốc Tử Giám
-     24002,Bệnh viện đa khoa huyện Yên Thế,Yen The District Health Center (CS1),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Yên Thế,Thị trấn Phồn Xương
-     24006,Bệnh viện đa khoa huyện Tân Yên,Tan Yen District Health Center (CS2),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Tân Yên,Thị trấn Cao Thượng
-     24008,Bệnh viện đa khoa huyện Lạng Giang,Lang Giang District Health Center (CS1),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Lạng Giang,Thị trấn Vôi
-     49002,Trung tâm Y tế thành phố Hội An,Hoi An City Medical Center,Trung tâm y tế,Tuyến huyện,Tỉnh Quảng Nam,Thành phố Hội An,Phường Sơn Phong
-     25013,TTYT  Huyện Thanh Ba,Thanh Ba District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Phú Thọ,Huyện Thanh Ba,Thị trấn Thanh Ba
-     91101,TTYT  Thành phố Rạch Giá,Rach Gia City Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Kiên Giang,Thành phố Rạch Giá,Phường Vĩnh Lạc
-     91003,TTYT  Huyện Hòn Đất,Hon Dat District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Kiên Giang,Huyện Hòn Đất,Thị trấn Hòn Đất
-     06007,TTYT  Huyện Chợ Mới,Cho Moi District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Bắc Kạn,Huyện Chợ Mới,Thị trấn Đồng Tâm
-     91010,TTYT  Huyện Vĩnh Thuận,Vinh Thuan District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kiên Giang,Huyện Vĩnh Thuận,Thị trấn Vĩnh Thuận
-     68370,TRUNG TÂM Y TẾ HUYỆN ĐƠN DƯƠNG,Don Duong District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Lâm Đồng,Huyện Đơn Dương,Thị trấn Thạnh Mỹ
-     87004,TTYT  Huyện Tam Nông,Tam Nong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Đồng Tháp,Huyện Tam Nông,Thị trấn Tràm Chim
-     89001,TRUNG TÂM Y TẾ THÀNH PHỐ LONG XUYÊN,Long Xuyen City Health Center (CS1-hospital),trung tâm y tế huyện,Tuyến huyện,Tỉnh An Giang,Thành phố Long Xuyên,Phường Mỹ Xuyên
-     51006,TTYT  Huyện Tư Nghĩa,Tu Nghia District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Quảng Ngãi,Huyện Tư Nghĩa,Thị trấn La Hà
-     40017,TTYT  Huyện Quỳ Châu,Quy Chau District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Nghệ An,Huyện Quỳ Châu,Thị trấn Tân Lạc
-     31005,Trung tâm Y tế quận Kiến An,Kien An District Health Center,trung tâm y tế huyện,Tuyến huyện,Thành phố Hải Phòng,Quận Kiến An,Phường Trần Thành Ngọ
-     31305,TTYT  Quận Dương Kinh,Duong Kinh District Health Center,trung tâm y tế huyện,Tuyến huyện,Thành phố Hải Phòng,Quận Dương Kinh,Phường Hưng Đạo
-     84004,TTYT  Huyện Cầu Kè,Cau Ke District Health Center ,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Trà Vinh,Huyện Cầu Kè,Thị trấn Cầu Kè
-     62140,TTYT huyện Ia H’Drai,Ia H'Drai District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Ia H' Drai,Xã Ia Tơi
-     48005,TTYT  Quận Sơn Trà,Son Tra District Health Center,Bệnh viện đa khoa,Tuyến huyện,Thành phố Đà Nẵng,Quận Sơn Trà,Phường An Hải Đông
-     11061,TTYT huyện Nậm Pồ,Nam Po District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Điện Biên,Huyện Nậm Pồ,Xã Nà Hỳ
-     86080,TTYT H. Vũng Liêm,Nguyen Van Thu District Health Center in Vung Liem District (CS1-hospital),trung tâm y tế huyện,Tuyến huyện,Tỉnh Vĩnh Long,Huyện  Vũng Liêm,Thị trấn Vũng Liêm
-     19008,Trung tâm y tế thị xã Phổ Yên,Phu Yen Town Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Thái Nguyên,Thị xã Phổ Yên,Phường Ba Hàng
-     15050,Bệnh viện đa khoa Trường Đức,Bệnh viện đa khoa Trường Đức,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Yên Bái,Thị xã Nghĩa Lộ,Phường Pú Trạng
-     80008,TTYT Đức Huệ,Duc Hue District Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Long An,Huyện Đức Huệ,Thị trấn Đông Thành
-     38725,BVĐK Thanh Hà,Thanh Ha General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Đông Hương
-     38713,Bệnh viện Tâm An,Tam An Hospital (hemorrhoid specialist),Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Tân Sơn
-     38733,Bệnh viện đa khoa Phúc Thịnh,Phuc Thinh General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Xã Đông Lĩnh
-     38719,BV Mắt Bắc Trung Nam,Bac Trung Nam Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Trường Thi
-     34373,Bệnh viện mắt Hà Nội - Thái Bình,Bệnh viện mắt Hà Nội - Thái Bình,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thái Bình,Thành phố Thái Bình,Phường Trần Lãm
-     22012,TTYT  Thành phố Uông Bí,Uong Bi City Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Ninh,Thành phố Uông Bí,Phường Quang Trung
-     22025,TTYT  Huyện Bình Liêu,Binh Lieu District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Ninh,Huyện Bình Liêu,Thị trấn Bình Liêu
+﻿Mã KCB,Tên cơ sở,Tên cơ sở (English),Loại hình cơ sở,Cấp cơ sở,Tỉnh/Thành phố,Quận/Huyện,Xã/Phường
+24003,Bệnh viện đa khoa huyện Lục Nam,Luc Nam District Health Center (CS1-hospital),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Lục Nam,Thị trấn Đồi Ngô
+24010,Bệnh viện đa khoa huyện Yên Dũng,Yen Dung District Health Center (CS1-hospital),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Yên Dũng,Thị trấn Nham Biền
+02005,Bệnh viện đa khoa huyện Vị Xuyên,Vi Xuyen District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Giang,Huyện Vị Xuyên,Thị trấn Vị Xuyên
+38020,BVĐK thị xã Bỉm Sơn,Bim Som Town General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thị xã Bỉm Sơn,Phường Lam Sơn
+38110,BVĐK huyện Thạch Thành,Thach Thanh District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thạch Thành,Thị trấn Kim Tân
+38060,BVĐK huyện Thường Xuân,Thuong Xuan District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thường Xuân,Thị trấn Thường Xuân
+38070,BVĐK huyện Như Xuân,Nhu Xuan District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Như Xuân,Thị trấn Yên Cát
+38130,BVĐK huyện Vĩnh Lộc,Vinh Loc District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Vĩnh Lộc,Thị trấn Vĩnh Lộc
+38140,BVĐK huyện Yên Định,Yen Dinh District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Yên Định,Xã Định Long
+38120,BVĐK huyện Thọ Xuân,Tho Xuan District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thọ Xuân,Thị trấn Thọ Xuân
+38220,BVĐK huyện Quảng Xương,Quang Xuong District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Quảng Xương,Thị trấn Tân Phong
+38160,BVĐK huyện Nông Cống,Nong Cong District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Nông Cống,Thị trấn Nông Cống
+38720,BVĐK Tâm Đức Cầu Quan,Tam Duc Cau Quan General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Nông Cống,Xã Trung Chính
+02012,Bệnh viện đa khoa huyện Mèo vạc,Meo Vac District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Giang,Huyện Mèo Vạc,Thị trấn Mèo Vạc
+36028,TTYT huyện Nghĩa Hưng (cơ sở Nghĩa Trung),Trung tâm y tế huyện Nghĩa Hưng (cơ sở Nghĩa Trung),Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Nam Định,Huyện Nghĩa Hưng,Xã Nghĩa Trung
+25002,Bệnh viện đa khoa thị xã Phú Thọ,Phu Tho Town General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Phú Thọ,Thị xã Phú Thọ,Phường Âu Cơ
+42003,Trung tâm Y tế huyện Hương Sơn,Huong Son District Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Thị trấn Phố Châu
+42002,Trung tâm Y tế Thị xã Hồng Lĩnh,Hong Linh Town General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Thị xã Hồng Lĩnh,Phường Bắc Hồng
+42006,Trung tâm Y tế huyện Can Lộc,Can Loc District General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Can Lộc,Thị trấn Nghèn
+42009,Bệnh viện đa khoa huyện Cẩm Xuyên,Cam Xuyen District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Cẩm Xuyên,Thị trấn Cẩm Xuyên
+42010,Bệnh viện đa khoa thị xã Kỳ Anh,Ky Anh Town General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thị xã Kỳ Anh,Phường Hưng Trí
+42011,Trung tâm Y tế huyện Vũ Quang,Vu Quang District General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Vũ Quang,Thị trấn Vũ Quang
+42007,Bệnh viện đa khoa huyện Hương Khê,Huong Khe District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Hương Khê,Thị trấn Hương Khê
+42008,Trung tâm Y tế huyện Thạch Hà,Thach Ha District General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Thạch Hà,Xã Thạch Long
+42005,Trung tâm Y tế huyện Nghi Xuân,Nghi Xuan Distrit General Hospital,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Nghi Xuân,Thị trấn Tiên Điền
+54005,Trung Tâm Y tế thị xã Sông Cầu,Song Cau Town Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Phú Yên,Thị xã Sông Cầu,Phường Xuân Yên
+64006,TTYT  Huyện Chư Prông,Chu Prong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Gia Lai,Huyện Chư Prông,Thị trấn Chư Prông
+89190,BỆNH VIỆN MẲT LONG XUYÊN,Long Xuyen Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh An Giang,Thành phố Long Xuyên,Phường Đông Xuyên
+38030,BVĐK thành phố Sầm Sơn,Sam Son City General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Sầm Sơn,Phường Bắc Sơn
+38040,BVĐK huyện Quan Hóa,Quan Hoa District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Quan Hóa,Thị trấn Hồi Xuân
+38260,BVĐK huyện Quan Sơn,Quan Son District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Quan Sơn,Thị trấn Sơn Lư
+35036.,Bệnh viện đa khoa Duy Tiên,Duy Tien Town Health Center (CS1-Hospital),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Nam,Thị xã Duy Tiên,Phường Hòa Mạc
+48012,Bệnh viện đa khoa Nam Liên Chiểu,Bệnh viện đa khoa Nam Liên Chiểu,Bệnh viện đa khoa,Tuyến huyện,Thành phố Đà Nẵng,Quận Liên Chiểu,Phường Hòa Minh
+64002,TTYT  Huyện Chư Păh,Chu Pah District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Gia Lai,Huyện Chư Păh,Thị trấn Phú Hòa
+79587,TTYT  Quận Phú Nhuận,Phu Nhuan District Health Center (CS2-preventive),trung tâm y tế huyện,Tuyến huyện,Thành phố Hồ Chí Minh,Quận Phú Nhuận,Phường 05
+87178,TTYT  Thành phố Cao Lãnh,Cao Lanh City Health Center,Phòng khám đa khoa,Tuyến huyện,Tỉnh Đồng Tháp,Thành phố Cao Lãnh,Phường 4
+89010,Trung tâm Y tế huyện Châu Thành (An Giang),Chau Thanh District Health Center CS1-hospital (An Giang),trung tâm y tế huyện,Tuyến huyện,Tỉnh An Giang,Huyện Châu Thành,Thị trấn An Châu
+45004,TTYT  Huyện Gio Linh,Gio Linh district health center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Trị,Huyện Gio Linh,Thị trấn Gio Linh
+46011,TTYT  Thành phố Huế,Hue City Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Thừa Thiên Huế,Thành phố Huế,Phường Kim Long
+49009,TTYT  Huyện Thăng Bình,Thang Binh District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Nam,Huyện Thăng Bình,Thị trấn Hà Lam
+40018,TTYT  Huyện Quế Phong,Que Phong District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Nghệ An,Huyện Quế Phong,Thị trấn Kim Sơn
+40002,Trung tâm Y tế huyện Hưng Nguyên,Hung Nguyen District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Nghệ An,Huyện Hưng Nguyên,Thị trấn Hưng Nguyên
+93078,TTYT  Huyện Long Mỹ,Long My District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Hậu Giang,Huyện Long Mỹ,Thị trấn Vĩnh Viễn
+25045,TTYT  Huyện Tân Sơn,Tan Son District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Phú Thọ,Huyện Tân Sơn,Xã Tân Phú
+66015,Bệnh viện đa khoa huyện Cư Mgar,Cu M'gar District Health Center (CS1-hospital),trung tâm y tế huyện,Tuyến huyện,Tỉnh Đắk Lắk,Huyện Cư M'gar,Thị trấn Quảng Phú
+15201,TTYT  Huyện Lục Yên,Luc Yen District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Yên Bái,Huyện Lục Yên,Thị trấn Yên Thế
+86134,TTYT H. Bình Tân,Binh Tan District Health Center ,Trung tâm y tế,Tuyến huyện,Tỉnh Vĩnh Long,Huyện Bình Tân,Thị trấn Tân Quới
+14003,Bệnh viện đa khoa Mộc châu,Moc Chau District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Sơn La,Huyện Mộc Châu,Thị trấn Mộc Châu
+14006,Bệnh viện đa khoa Yên Châu,Yen Chau District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Sơn La,Huyện Yên Châu,Thị trấn Yên Châu
+14010,Bệnh viện đa khoa Bắc Yên,Bac Yen District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Sơn La,Huyện Bắc Yên,Thị trấn Bắc Yên
+01244,Bệnh viện Quốc tế DoLife,DoLife International Hospital,Bệnh viện đa khoa,Tuyến huyện,Thành phố Hà Nội,Quận Nam Từ Liêm,Phường Mỹ Đình 2
+01217,TTYT Quận Bắc Từ Liêm,Bac Tu Liem District Health Center,Trung tâm y tế,Tuyến huyện,Thành phố Hà Nội,Quận Bắc Từ Liêm,Phường Minh Khai
+42004,Bệnh viện đa khoa huyện Đức Thọ,Duc Tho District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Đức Thọ,Thị trấn Đức Thọ
+33040,TTYT  Huyện Kim Động,Kim Dong District Health Center (CS1-hospital),Trung tâm y tế,Tuyến huyện,Tỉnh Hưng Yên,Huyện Kim Động,Thị trấn Lương Bằng
+35064,TTYT  Huyện Lý Nhân,Ly Nhan District Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Hà Nam,Huyện Lý Nhân,Thị trấn Vĩnh Trụ
+37103,TTYT thành phố Ninh Bình,Ninh Binh City Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Ninh Bình,Thành phố Ninh Bình,Phường Phúc Thành
+20011,TTYT  Huyện Cao Lộc,Cao Loc District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Lạng Sơn,Huyện Cao Lộc,Thị trấn Cao Lộc
+75096,TTYT  Huyện Cẩm Mỹ,Cam My District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Đồng Nai,Huyện Cẩm Mỹ,Xã Long Giao
+75013,Trung tâm Y tế huyện Xuân Lộc,Xuan Loc District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Đồng Nai,Huyện Xuân Lộc,Xã Suối Cát
+60005,TTYT  Huyện Hàm Thuận Bắc,Ham Thuan Bac District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Bình Thuận,Huyện Hàm Thuận Bắc,Thị trấn Ma Lâm
+06006,TTYT  Huyện Na Rì,Na Ri District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Kạn,Huyện Na Rì,Thị trấn Yến Lạc
+20010,TTYT  Huyện Văn Quan,Van Quan District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Lạng Sơn,Huyện Văn Quan,Thị trấn Văn Quan
+54028,TTYT  Huyện Phú Hòa,Phu Hoa District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Phú Yên,Huyện Phú Hoà,Thị Trấn Phú Hoà
+62002,TTYT  Huyện Đắk Glei,Dak Glei District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Đắk Glei,Thị trấn Đắk Glei
+62004,TTYT  Huyện Đắk Tô,Dak To District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Đắk Tô,Thị trấn Đắk Tô
+62008,TTYT  Huyện Kon Rẫy,Kon Ray District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Kon Rẫy,Thị trấn Đắk Rve
+62006,TTYT  Huyện Kon Plông,Kon Plong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Kon Plông,Thị trấn Măng Đen
+62007,TTYT  Huyện Đắk Hà,Dak Ha District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Đắk Hà,Thị trấn Đắk Hà
+38747,Bệnh viện Mắt Thanh An,Thanh An Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Trường Thi
+38748,BVĐK quốc tế Hợp Lực,Hop Luc International General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thị xã Nghi Sơn,Phường Nguyên Bình
+62005,TTYT  Huyện Sa Thầy,Sa Thay District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Sa Thầy,Thị trấn Sa Thầy
+62013,TTYT  Huyện Tu Mơ Rông,Tu Mo Rong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Tu Mơ Rông,Xã Đắk Hà
+72001,Trung tâm Y tế Thành phố Tây Ninh,Tay Ninh City Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Tây Ninh,Thành phố Tây Ninh,Phường 2
+22042,TTYT Than Khu vực Mạo Khê (thuộc Bệnh viện Than-Khoáng Sản),VINACOMIN Hospital (Coal Health Center for Mao Khe area),Trung tâm y tế,Tuyến huyện,Tỉnh Quảng Ninh,Thị xã Đông Triều,Phường Mạo Khê
+44006,Bệnh viện đa khoa huyện Quảng Ninh,Quang Ninh District Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Quảng Bình,Huyện Quảng Ninh,Xã Gia Ninh
+56003,Trung tâm Y tế Thị xã Ninh Hoà,Trung tâm Y tế Thị xã Ninh Hoà,Trung tâm y tế,Tuyến huyện,Tỉnh Khánh Hòa,Thị xã Ninh Hòa,Phường Ninh Diêm
+42021,Bệnh viện Đa khoa khu vực Cửa khẩu Quốc tế Cầu Treo,Cau Treo Regional General Hospital (Huong Son district),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Huyện Hương Sơn,Thị trấn  Tây Sơn
+,Bệnh viện đa khoa Hồng Hà,Bệnh viện đa khoa Hồng Hà,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thị xã Hồng Lĩnh,Phường Nam Hồng
+42311,Bệnh viện đa khoa Sài Gòn - Hà Tĩnh,Saigon General Hospital- (Belongs to Saigon Eye Hospital Chain-Ha Tinh),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thành phố Hà Tĩnh,Phường Thạch Linh
+42337,Bệnh viện Đa khoa TTH Hà Tĩnh,Bệnh viện Đa khoa TTH Hà Tĩnh,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Hà Tĩnh,Thành phố Hà Tĩnh,Xã Thạch Trung
+38240,BVĐK huyện Thiệu Hoá,Thieu Hoa District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Thiệu Hóa,Thị trấn Thiệu Hóa
+38150,BVĐK huyện Triệu Sơn,Trieu Son District General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Huyện Triệu Sơn,Thị trấn Triệu Sơn
+45005,Trung tâm Y tế huyện Cam Lộ,Cam Lo District health center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Trị,Huyện Cam Lộ,Thị trấn Cam Lộ
+60012,TTYT  Huyện Hàm Thuận Nam,Ham Thuan Nam District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Bình Thuận,Huyện Hàm Thuận Nam,Thị trấn Thuận Nam
+38010,Bệnh viện đa khoa thành phố Thanh Hóa,Thanh Hoa City General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Trường Thi
+38718,Bệnh viện Mắt Binh Tâm,Binh Tam Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Đông Vệ
+26025,Trung tâm y tế thành phố Phúc Yên,Phuc Yen City Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Vĩnh Phúc,Thành phố Phúc Yên,Phường Nam Viêm
+60040,TTYT  Thành phố Phan Thiết,Phan Thiet City Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Bình Thuận,Thành phố Phan Thiết,Phường Phú Trinh
+01082,Bệnh viện đa khoa tư nhân Tràng An,Trang An Private General Hospital,Bệnh viện đa khoa,Tuyến huyện,Thành phố Hà Nội,Quận Đống Đa,Phường Quốc Tử Giám
+24002,Bệnh viện đa khoa huyện Yên Thế,Yen The District Health Center (CS1),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Yên Thế,Thị trấn Phồn Xương
+24006,Bệnh viện đa khoa huyện Tân Yên,Tan Yen District Health Center (CS2),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Tân Yên,Thị trấn Cao Thượng
+24008,Bệnh viện đa khoa huyện Lạng Giang,Lang Giang District Health Center (CS1),Bệnh viện đa khoa,Tuyến huyện,Tỉnh Bắc Giang,Huyện Lạng Giang,Thị trấn Vôi
+49002,Trung tâm Y tế thành phố Hội An,Hoi An City Medical Center,Trung tâm y tế,Tuyến huyện,Tỉnh Quảng Nam,Thành phố Hội An,Phường Sơn Phong
+25013,TTYT  Huyện Thanh Ba,Thanh Ba District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Phú Thọ,Huyện Thanh Ba,Thị trấn Thanh Ba
+91101,TTYT  Thành phố Rạch Giá,Rach Gia City Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Kiên Giang,Thành phố Rạch Giá,Phường Vĩnh Lạc
+91003,TTYT  Huyện Hòn Đất,Hon Dat District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Kiên Giang,Huyện Hòn Đất,Thị trấn Hòn Đất
+06007,TTYT  Huyện Chợ Mới,Cho Moi District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Bắc Kạn,Huyện Chợ Mới,Thị trấn Đồng Tâm
+91010,TTYT  Huyện Vĩnh Thuận,Vinh Thuan District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kiên Giang,Huyện Vĩnh Thuận,Thị trấn Vĩnh Thuận
+68370,TRUNG TÂM Y TẾ HUYỆN ĐƠN DƯƠNG,Don Duong District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Lâm Đồng,Huyện Đơn Dương,Thị trấn Thạnh Mỹ
+87004,TTYT  Huyện Tam Nông,Tam Nong District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Đồng Tháp,Huyện Tam Nông,Thị trấn Tràm Chim
+89001,TRUNG TÂM Y TẾ THÀNH PHỐ LONG XUYÊN,Long Xuyen City Health Center (CS1-hospital),trung tâm y tế huyện,Tuyến huyện,Tỉnh An Giang,Thành phố Long Xuyên,Phường Mỹ Xuyên
+51006,TTYT  Huyện Tư Nghĩa,Tu Nghia District Health Center,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Quảng Ngãi,Huyện Tư Nghĩa,Thị trấn La Hà
+40017,TTYT  Huyện Quỳ Châu,Quy Chau District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Nghệ An,Huyện Quỳ Châu,Thị trấn Tân Lạc
+31005,Trung tâm Y tế quận Kiến An,Kien An District Health Center,trung tâm y tế huyện,Tuyến huyện,Thành phố Hải Phòng,Quận Kiến An,Phường Trần Thành Ngọ
+31305,TTYT  Quận Dương Kinh,Duong Kinh District Health Center,trung tâm y tế huyện,Tuyến huyện,Thành phố Hải Phòng,Quận Dương Kinh,Phường Hưng Đạo
+84004,TTYT  Huyện Cầu Kè,Cau Ke District Health Center ,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Trà Vinh,Huyện Cầu Kè,Thị trấn Cầu Kè
+62140,TTYT huyện Ia H’Drai,Ia H'Drai District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Kon Tum,Huyện Ia H' Drai,Xã Ia Tơi
+48005,TTYT  Quận Sơn Trà,Son Tra District Health Center,Bệnh viện đa khoa,Tuyến huyện,Thành phố Đà Nẵng,Quận Sơn Trà,Phường An Hải Đông
+11061,TTYT huyện Nậm Pồ,Nam Po District Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Điện Biên,Huyện Nậm Pồ,Xã Nà Hỳ
+86080,TTYT H. Vũng Liêm,Nguyen Van Thu District Health Center in Vung Liem District (CS1-hospital),trung tâm y tế huyện,Tuyến huyện,Tỉnh Vĩnh Long,Huyện  Vũng Liêm,Thị trấn Vũng Liêm
+19008,Trung tâm y tế thị xã Phổ Yên,Phu Yen Town Health Center,Trung tâm y tế,Tuyến huyện,Tỉnh Thái Nguyên,Thị xã Phổ Yên,Phường Ba Hàng
+15050,Bệnh viện đa khoa Trường Đức,Bệnh viện đa khoa Trường Đức,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Yên Bái,Thị xã Nghĩa Lộ,Phường Pú Trạng
+80008,TTYT Đức Huệ,Duc Hue District Health Center,Trung tâm y tế đa chức năng,Tuyến huyện,Tỉnh Long An,Huyện Đức Huệ,Thị trấn Đông Thành
+38725,BVĐK Thanh Hà,Thanh Ha General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Đông Hương
+38713,Bệnh viện Tâm An,Tam An Hospital (hemorrhoid specialist),Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Tân Sơn
+38733,Bệnh viện đa khoa Phúc Thịnh,Phuc Thinh General Hospital,Bệnh viện đa khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Xã Đông Lĩnh
+38719,BV Mắt Bắc Trung Nam,Bac Trung Nam Eye Hospital,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thanh Hóa,Thành phố Thanh Hóa,Phường Trường Thi
+34373,Bệnh viện mắt Hà Nội - Thái Bình,Bệnh viện mắt Hà Nội - Thái Bình,Bệnh viện chuyên khoa,Tuyến huyện,Tỉnh Thái Bình,Thành phố Thái Bình,Phường Trần Lãm
+22012,TTYT  Thành phố Uông Bí,Uong Bi City Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Ninh,Thành phố Uông Bí,Phường Quang Trung
+22025,TTYT  Huyện Bình Liêu,Binh Lieu District Health Center,trung tâm y tế huyện,Tuyến huyện,Tỉnh Quảng Ninh,Huyện Bình Liêu,Thị trấn Bình Liêu

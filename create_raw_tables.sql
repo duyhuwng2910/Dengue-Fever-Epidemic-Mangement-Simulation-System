@@ -65,3 +65,21 @@ CREATE TABLE dengue_fever_case_record (
     result VARCHAR(20) NOT NULL -- Kết quả
     result_date DATE NULL -- Ngày trả kết quả
 );
+
+CREATE TABLE administrative_units_information_2023 (
+	city_name NVARCHAR(50) NOT NULL, 
+	city_id NVARCHAR(50) NOT NULL,
+	district NVARCHAR(50) NOT NULL,
+	district_id NVARCHAR(50) NOT NULL,
+	ward NVARCHAR(50) NOT NULL,
+	ward_id NVARCHAR(50) NOT NULL,
+	administrative_unit_level NVARCHAR(15) NOT NULL,
+	english_name NVARCHAR(50) NULL
+);
+
+CREATE TABLE area_and_population_2022 (
+	name NVARCHAR(50),
+	[square(Km2)] DECIMAL(6,2),
+	[average_population(thousands)] DECIMAL(6,2),
+	[population_density(person/Km2)] INT
+);
