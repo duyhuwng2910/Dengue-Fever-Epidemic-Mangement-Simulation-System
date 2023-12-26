@@ -238,6 +238,6 @@ def import_weather_data_from_data_frame():
 
 update_weather_data()
 time.sleep(1)
-# import_weather_data_from_csv_file()
+import_weather_data_from_csv_file()
 # time.sleep(1)
-import_weather_data_from_data_frame()
+# import_weather_data_from_data_frame()
